@@ -32,8 +32,9 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 <h2>✒️ Recent Posts</h2>
 <ul>
-<li><a target="_blank" href="https://www.microengineers.org">Check out my latest social impact project here.</a></li>
-  <img src="https://www.microengineers.org/_next/image?url=%2Fapp-dark.png&w=3840&q=75" alt="microengineers.org" width="140" height="90" />
+<li>I am currently working on scaling my AI-driven social impact project to enable vulnerable children access to quality education.</li>
+  <a target="_blank" href="https://www.microengineers.org"> </a>
+  <img src="https://www.microengineers.org/_next/image?url=%2Fapp-dark.png&w=3840&q=75" alt="microengineers.org" width="300" height="270" />
   
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/mukindia-jerome-83bb57265" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
