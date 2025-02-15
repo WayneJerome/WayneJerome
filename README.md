@@ -30,10 +30,10 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
+<h2>💻Recent Project🚧</h2>
 <ul>
-<li>I am currently working on scaling my AI-driven social impact project to enable vulnerable children access to quality education.</li>
-  <a target="_blank" href="https://www.microengineers.org"> </a>
+<li>I am currently working on scaling an AI-driven, e-learning project to enable vulnerable children access to quality education.</li>
+  <a target="_blank" href="https://www.microengineers.org">MicroEngineers.org</a>
   <img src="https://www.microengineers.org/_next/image?url=%2Fapp-dark.png&w=3840&q=75" alt="microengineers.org" width="350" height="240" />
   
 <h2>⚡️ Where to find me</h2>
