@@ -32,7 +32,7 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 <h2>💻Recent Project🚧</h2>
 <ul>
-<li>I am currently working on scaling an AI-driven, e-learning project to enable vulnerable children access to quality education.</li>
+<li>I am currently harnessing artificial intelligence and machine learning to scale a high impact e-learning ecosystem that enables learners access to supercharged education in a personalized, competitive and collaborative environment that also features educator and parental participation. </li>
   <a target="_blank" href="https://www.microengineers.org">MicroEngineers.org</a>
   <img src="https://www.microengineers.org/_next/image?url=%2Fapp-dark.png&w=3840&q=75" alt="microengineers.org" width="350" height="240" />
   
