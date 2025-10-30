@@ -33,8 +33,8 @@
 <h2>💻Recent Project🚧</h2>
 <ul>
 <li>I am currently harnessing artificial intelligence and machine learning to scale a high impact e-learning ecosystem that enables learners access to supercharged education in a personalized, competitive and collaborative environment that also features educator and parental participation. </li>
-  <a target="_blank" href="https://www.microengineers.org">MicroEngineers.org</a>
-  <img src="https://www.microengineers.org/_next/image?url=%2Fapp-dark.png&w=3840&q=75" alt="microengineers.org" width="350" height="240" />
+  <a target="_blank" href="https://microengineers.vercel.app">MicroEngineers.org</a>
+  <img src="https://microengineers.vercel.app/_next/image?url=%2Fapp-dark.png&w=3840&q=75" alt="microengineers.org" width="350" height="240" />
   
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/mukindia-jerome-83bb57265" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
